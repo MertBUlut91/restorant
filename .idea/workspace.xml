@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09d51298-e232-4cf2-8ae3-d7e39a2f8ab3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1ziha69wEXSJKMdMvlWczWrEOjX" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\laragon\www\restorant\fonts" />
+      <recent name="D:\laragon\www\restorant\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09d51298-e232-4cf2-8ae3-d7e39a2f8ab3" name="Changes" comment="" />
+      <created>1634636875362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634636875362</updated>
+      <workItem from="1634636876578" duration="5443000" />
+      <workItem from="1634679085986" duration="6961000" />
+      <workItem from="1634758423350" duration="10343000" />
+      <workItem from="1634969352892" duration="17000" />
+      <workItem from="1634980917052" duration="5000" />
+      <workItem from="1634981724456" duration="4000" />
+      <workItem from="1635057192703" duration="4000" />
+      <workItem from="1635058698080" duration="5000" />
+      <workItem from="1635061063985" duration="4000" />
+      <workItem from="1635062784484" duration="4000" />
+      <workItem from="1635261286275" duration="6103000" />
+      <workItem from="1635267456628" duration="5233000" />
+      <workItem from="1635275671253" duration="8440000" />
+      <workItem from="1635365977263" duration="5733000" />
+      <workItem from="1635372617316" duration="978000" />
+      <workItem from="1635423906549" duration="8819000" />
+      <workItem from="1635573617898" duration="18000" />
+      <workItem from="1635873752554" duration="13054000" />
+      <workItem from="1636128205833" duration="7017000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
